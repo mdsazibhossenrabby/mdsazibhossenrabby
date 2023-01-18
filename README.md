@@ -17,9 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runcode42&label=Profile%20views&color=0e75b6&style=flat" alt="runcode42" width="90" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runcode42" alt="runcode42" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -35,6 +33,10 @@
 - 📫 How to reach me **runcode101010@proton.me**
 
 - ⚡ Fun fact **I have no girlfriend at all.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runcode42" alt="runcode42" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🙋‍♀️ Let's Connect
 
