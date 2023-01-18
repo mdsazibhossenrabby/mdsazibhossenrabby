@@ -4,12 +4,12 @@ I'm fond of programming👨‍💻 and technology💻. I'm Still learning. I bel
 
 Skills: HTML / CSS/C/C++/Python
 
-- 🌱 I’m currently learning C/C++/Python  
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with C/C++/python 
+- 💻 I’m currently learning C/C++/Python  
+- 👀🎉 I’m looking to collaborate on Github 
+- 👀🆘 I’m looking for help with C/C++/python 
 - 💬 Ask me about Web development. 
 - 📫 How to reach me: By Facebook, Instagram and Telegram 
-- 😄 Pronouns: He/His/Him 
+- 🗣️ Pronouns: He/His/Him 
 - ⚡ Fun fact: I have no girlfriend at all . 
 
 
