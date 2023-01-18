@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/04/key-clipart-animated-7.gif" height="200"/>
 
 </p>
 
