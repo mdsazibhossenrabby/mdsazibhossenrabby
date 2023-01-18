@@ -2,6 +2,8 @@
 
 <h3 align="center">I'm a CSE Student and learning programming also.</h3>
 
+<img align="right* width="400" src="https://images.app.goo.gl/EYAitnFinFQ3DZS17">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runcode42&label=Profile%20views&color=0e75b6&style=flat" alt="runcode42" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runcode42" alt="runcode42" /></a> </p>
