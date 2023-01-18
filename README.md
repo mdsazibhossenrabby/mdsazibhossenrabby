@@ -1,16 +1,5 @@
-### Hi there 👋, I'm MD.SAZIB
-#### I'm a CSE Student and learning programming also.
-I'm fond of programming👨‍💻 and technology💻. I'm Still learning. I believe that "Big skills come from humble beginnings". Whatever I do , I do with full passion because I don't wait for the bug fixes.
 
-Skills: HTML / CSS/C/C++/Python
 
-- 💻 I’m currently learning C/C++/Python  
-- 👀🎉 I’m looking to collaborate on Github 
-- 👀🆘 I’m looking for help with C/C++/python 
-- 💬 Ask me about Web development. 
-- 📫 How to reach me: By Facebook, Instagram and Telegram 
-- 🗣️ Pronouns: He/His/Him 
-- ⚡ Fun fact: I have no girlfriend at all . 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/runcode42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://Facebook.com/runcode101010)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://Instagram.com/runcode101010/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://telegram.com/runcode101010)  
@@ -40,17 +29,19 @@ Skills: HTML / CSS/C/C++/Python
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C,C++,PYTHON**
+- 💻 I’m currently learning C/C++/Python  
 
-- 👯 I’m looking to collaborate on **Github**
+- 👀🎉 I’m looking to collaborate on Github 
 
-- 👨‍💻 All of my projects are available at [https://github.com/runcode42](https://github.com/runcode42)
+- 👀🆘 I’m looking for help with C/C++/python 
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about Web development. 
 
-- 📫 How to reach me **runcode101010@proton.me**
+- 📫 How to reach me : runcode101010@proton.me
 
-- ⚡ Fun fact **I have no girlfriend at all.**
+- 🗣️ Pronouns: He/His/Him 
+
+- ⚡ Fun fact: I have no girlfriend at all . 
 
 <h3 align="left">Connect with me:</h3>
 
