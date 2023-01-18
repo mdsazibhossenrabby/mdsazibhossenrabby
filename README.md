@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a CSE Student and learning programming also.</h3>
 
-<img align="right" width="400" src="https://github.com/rudrabarad/Gifs">
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runcode42&label=Profile%20views&color=0e75b6&style=flat" alt="runcode42" /> </p>
 
