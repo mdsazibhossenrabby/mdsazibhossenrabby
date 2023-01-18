@@ -27,7 +27,7 @@
 
 ## 🙋‍♀️ Let's Connect
 
-<a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+
 <p align="left">
 
 <a href="https://fb.com/runcode101010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="runcode101010" height="30" width="40" /></a>
