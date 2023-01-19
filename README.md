@@ -36,7 +36,7 @@
 
 </hr>
 
-# <picture> <img src="https://media.tenor.com/LwULtPSWGTwAAAAC/trophy-joypixels.gif" width="50px"><\picture> GitHub Trophies
+# <picture> <img src="https://media.tenor.com/LwULtPSWGTwAAAAC/trophy-joypixels.gif" width="50px"></picture> **GitHub Trophies**
 
 ![](https://github-profile-trophy.vercel.app/?username=runcode42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
