@@ -81,25 +81,26 @@
  <br><br>
  
  
- #  **Contact Socia**  🌐
+# **Contact Social**
 
+<p>
 <a href="https://twitter.com/sazib019" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazib019" height="50" width="60" /></a>
 <a href="https://linkedin.com/in/runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="runcode42" height="50" width="60" /></a>
 <a href="https://fb.com/runcode101010" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="runcode101010" height="50" width="60" /></a>
 <a href="https://instagram.com/runcode101010" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="runcode101010" height="50" width="60" /></a>
-
-
-< <a href="https://discord.gg/Runcode42" target="blank"><img align="left" src a href="https://discord.gg/Runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Runcode42" height="50" width="60" /></a>
+<a href="https://discord.gg/Runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Runcode42" height="50" width="60" /></a>
 
 </p>
 
-
-<br><br>
-
 # **Programming Social**
 
-<a href="https://www.codechef.com/users/runcode42" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="runcode42" height="50" width="60" /></a>
+<p>
+
 <a href="https://codeforces.com/profile/runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="runcode42" height="50" width="60" /></a>
+
+<a href="https://www.codechef.com/users/runcode42" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="runcode42" height="50" width="60" /></a>
+
 <a href="https://www.leetcode.com/runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="runcode42" height="50" width="60" /></a>
+
 <a href="https://www.topcoder.com/members/runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="runcode42" height="50" width="60" /></a>
 
