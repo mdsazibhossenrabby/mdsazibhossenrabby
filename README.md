@@ -108,6 +108,6 @@
 
   <br><br>
   
-  <div align="left">
+ 
   ![GitHub metrics](https://metrics.lecoq.io/runcode42)
-</div>
+
