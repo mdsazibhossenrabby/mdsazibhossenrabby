@@ -57,6 +57,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=runcode42&show_icons=true&locale=en&layout=compact" alt="runcode42" /></p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=runcode42&show_icons=true&locale=en" alt="runcode42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runcode42&" alt="runcode42" /></p>
