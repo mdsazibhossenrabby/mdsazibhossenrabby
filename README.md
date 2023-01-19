@@ -50,7 +50,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=runcode42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![](https://visitcount.itsvg.in/api?id=runcode42&icon=9&color=1)](https://visitcount.itsvg.in)
 
