@@ -104,4 +104,8 @@
 <a href="https://www.leetcode.com/runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="runcode42" height="50" width="60" /></a>
 
 <a href="https://www.topcoder.com/members/runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="runcode42" height="50" width="60" /></a>
+</p>
+
+  <br><br>
+  ![GitHub metrics](https://metrics.lecoq.io/runcode42)
 
