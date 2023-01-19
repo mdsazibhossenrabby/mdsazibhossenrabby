@@ -89,6 +89,8 @@
 <a href="https://instagram.com/runcode101010" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="runcode101010" height="50" width="60" /></a>
 <a href="https://www.codechef.com/users/runcode42" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="runcode42" height="50" width="60" /></a>
 
+<br><br>
+
 # **Programming Social**
 
 <a href="https://codeforces.com/profile/runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="runcode42" height="50" width="60" /></a>
