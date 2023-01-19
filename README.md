@@ -34,9 +34,15 @@
 
 - ⚡ Fun fact **I have no girlfriend at all.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runcode42" alt="runcode42" /></a> </p>
+</hr>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=runcode42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=runcode42&icon=9&color=1)](https://visitcount.itsvg.in)
 
 # 🙋‍♀️ Let's Connect
 
