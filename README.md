@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://digitaledgetech.in/images/Banner_03_new.gif"/>
+  <img src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif"/>
 
 </p>
 
