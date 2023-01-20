@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif"/>
+  <img src="https://enlivit.com/assets/images/main_image.gif"/>
 
 </p>
 
