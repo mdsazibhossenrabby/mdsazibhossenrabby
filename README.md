@@ -16,6 +16,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runcode42&label=Profile%20views&color=0e75b6&style=flat" alt="runcode42" width="90" /> </p>
+[![](https://visitcount.itsvg.in/api?id=runcode42&icon=9&color=1)](https://visitcount.itsvg.in)
 
 
 
@@ -52,7 +53,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![](https://visitcount.itsvg.in/api?id=runcode42&icon=9&color=1)](https://visitcount.itsvg.in)
+
 
 
 
@@ -94,7 +95,7 @@
 # **Contact Social**
 
 <p>
-<a href="https://twitter.com/sazib019" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazib019" height="50" width="60" /></a>
+<a href="https://twitter.com/imsazibcoder" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazib019" height="50" width="60" /></a>
 <a href="https://linkedin.com/in/runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="runcode42" height="50" width="60" /></a>
 <a href="https://fb.com/runcode101010" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="runcode101010" height="50" width="60" /></a>
 <a href="https://instagram.com/imsazibcoder" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="runcode101010" height="50" width="60" /></a>
