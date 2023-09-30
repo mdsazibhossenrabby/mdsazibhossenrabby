@@ -7,7 +7,7 @@
 
 <hr>
 
-<h1 align="center"><b>Hi , I'm MD. SAZIB</b><picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/hiiihiiihiii.gif" width="40" height="40></picture></h1>
+<h1 align="center"><b>Hi , I'm MD. SAZIB</b></h1><picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/hiiihiiihiii.gif" width="40" height="40></picture>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=27&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum++Warahmatullah..&hearts;++;Self-taught+Future+Developer,;Computer+Science+Student,;Programming+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..&hearts"</a>
