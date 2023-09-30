@@ -46,7 +46,7 @@
 
 </hr>
 
-# <picture> <img src="https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Trophy.webp?token=GHSAT0AAAAAACIH3LVLPQRCMXND2O7R2XYCZIYCEHAf" width="70px"></picture> **GitHub Trophies**
+# <picture> <img src="https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Trophy.webp?token=GHSAT0AAAAAACIH3LVLPQRCMXND2O7R2XYCZIYCEHAf"></picture> **GitHub Trophies**
 
 ![](https://github-profile-trophy.vercel.app/?username=runcode42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
