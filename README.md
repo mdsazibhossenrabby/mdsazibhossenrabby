@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="runcode42" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="runcode42" width="100px" height="100px" /> </p>
 [![](https://visitcount.itsvg.in/api?id=runcode42&icon=9&color=1)](https://visitcount.itsvg.in)
 
 
