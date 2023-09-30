@@ -46,7 +46,7 @@
 
 </hr>
 
-# <picture> <img src="https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Trophy.webp?token=GHSAT0AAAAAACIH3LVLPQRCMXND2O7R2XYCZIYCEHAf"></picture> **GitHub Trophies**
+# <picture> <img src="https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Trophy.webp"></picture> **GitHub Trophies**
 
 ![](https://github-profile-trophy.vercel.app/?username=runcode42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -72,7 +72,7 @@
 <br> 
   
   
- #  <picture><img src = "https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Bar%20Chart.webp?token=GHSAT0AAAAAACIH3LVLVIXFCWNCRJAQLAQOZIYCAFA" width = 70px></picture> **Github Stats**  
+ #  <picture><img src = "https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Bar%20Chart.webp" width = 70px></picture> **Github Stats**  
 
  <br> 
 
