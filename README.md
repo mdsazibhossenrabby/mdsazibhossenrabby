@@ -96,8 +96,9 @@
 <br>
  <br><br>
  
- 
-# <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width = 50px > **Contact Social**
+
+
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  # **Contact Social**
 
 <p>
 <a href="https://twitter.com/imsazibcoder" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="sazib019" height="70" width="70" /></a>
