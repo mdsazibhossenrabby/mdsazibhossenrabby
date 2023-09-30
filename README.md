@@ -78,8 +78,6 @@
 
  <br> 
 
-  
-
  <div align="center">
 
 <a href="https://github.com/runcode42/">
@@ -111,6 +109,7 @@
 <a href="https://discord.gg/Runcode42" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Runcode42" height="70" width="70" /></a>
 
 </p>
+<br><br>
 <br><br>
 <br><br>
 
