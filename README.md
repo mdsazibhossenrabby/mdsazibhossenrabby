@@ -74,7 +74,7 @@
 <br><br>
   
   
- # <picture><img src = "https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Bar%20Chart.webp?token=GHSAT0AAAAAACIH3LVKM56ATN5ADP7NEUIWZIYCM4A" width = 60px></picture> **Github Stats**  
+ # <picture><img src = "https://github.com/runcode42/logos-and-redmm/blob/main/barrrrr.gif" width = 60px></picture> **Github Stats**  
 
  <br> 
 
