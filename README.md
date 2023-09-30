@@ -43,6 +43,7 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 <br><br>
+<br>
 
 </hr>
 
@@ -54,7 +55,7 @@
 
 
 
-
+<br>
 
 <br> 
 
@@ -70,6 +71,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="60" height="60"/> </a> </p>
 
 <br> 
+<br><br>
   
   
  # <picture><img src = "https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Bar%20Chart.webp?token=GHSAT0AAAAAACIH3LVKM56ATN5ADP7NEUIWZIYCM4A" width = 60px></picture> **Github Stats**  
