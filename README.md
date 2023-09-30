@@ -72,7 +72,7 @@
 <br> 
   
   
- # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> **Github Stats**  
+ #  <picture><img src = "https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Bar%20Chart.webp?token=GHSAT0AAAAAACIH3LVLVIXFCWNCRJAQLAQOZIYCAFA" width = 70px></picture> **Github Stats**  
 
  <br> 
 
