@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://enlivit.com/assets/images/main_image.gif" height="150" width="300"/>
+  <img src="[https://enlivit.com/assets/images/main_image.gif](https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif)" height="150" width="300"/>
 
 </p>
 
