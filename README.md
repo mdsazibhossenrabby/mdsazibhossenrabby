@@ -7,7 +7,7 @@
 
 <hr>
 
-<h1 align="center"><b >Hi , I'm MD. SAZIB</b><picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/hiiihiiihiii.gif" width="40" height="40></picture></h1>
+<h1 align="center"><b >Hi , I'm MD. SAZIB</b></h1>
                                                         
 <br><br>
                                                         
