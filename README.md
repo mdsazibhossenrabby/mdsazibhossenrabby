@@ -129,7 +129,7 @@
 
   <br><br><br><br>
 
-  ### 🔝 Top Contributed Repo
+  ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px></picture> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=runcode42&limit=5&theme=flat&combine_all_yearly_contributions=true)
   
  
