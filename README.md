@@ -43,11 +43,11 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 <br><br>
-<br>
+<br> <br><br>
 
 </hr>
 
-# <picture><img src = "https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Trophy.webp?token=GHSAT0AAAAAACIH3LVKRD5FC2TMFTWJBIPIZIYCLLA" width = 60px> **GitHub Trophies**
+# <picture><img src = "https://raw.githubusercontent.com/runcode42/logos-and-redmm/main/Trophy.webp?token=GHSAT0AAAAAACIH3LVKRD5FC2TMFTWJBIPIZIYCLLA" width = 60px>**GitHub Trophies**
 
 ![](https://github-profile-trophy.vercel.app/?username=runcode42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -89,6 +89,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=runcode42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="runcode42"/>
 
 </a>
+<br><br>
 
 </div>
 
@@ -110,6 +111,7 @@
 <a href="https://discord.gg/Runcode42" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Runcode42" height="70" width="70" /></a>
 
 </p>
+<br><br>
 <br><br>
 
 # **Programming Social**
