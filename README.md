@@ -91,7 +91,7 @@
  <br><br>
  
  
-# <picture> <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif"> </picture> **Contact Social**
+# <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif"> **Contact Social**
 
 <p>
 <a href="https://twitter.com/imsazibcoder" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazib019" height="50" width="60" /></a>
