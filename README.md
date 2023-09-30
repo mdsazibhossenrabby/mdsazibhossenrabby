@@ -96,7 +96,7 @@
 <p>
 <a href="https://twitter.com/imsazibcoder" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazib019" height="50" width="60" /></a>
 <a href="https://linkedin.com/in/runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="runcode42" height="50" width="60" /></a>
-<a href="https://fb.com/runcode101010" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="runcode101010" height="50" width="60" /></a>
+<a href="https://fb.com/runcode101010" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="runcode101010" /></a>
 <a href="https://instagram.com/imsazibcoder" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="runcode101010" height="50" width="60" /></a>
 <a href="https://discord.gg/Runcode42" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Runcode42" height="50" width="60" /></a>
 
