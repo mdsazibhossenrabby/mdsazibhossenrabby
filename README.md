@@ -46,7 +46,7 @@
 
 </hr>
 
-# <picture> <img src="https://github.com/runcode42/logos-and-redmm/blob/main/Trophy.webp"></picture> **GitHub Trophies**
+# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px> **GitHub Trophies**
 
 ![](https://github-profile-trophy.vercel.app/?username=runcode42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
