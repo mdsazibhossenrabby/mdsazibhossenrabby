@@ -51,7 +51,7 @@
 
 # **GitHub Trophies**
 
-![](https://github-profile-trophy.vercel.app/?username=runcode42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mdsazibhossenrabby&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -82,11 +82,11 @@
 
  <div align="center">
 
-<a href="https://github.com/runcode42/">
+<a href="https://github.com/mdsazibhossenrabby/">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=runcode42&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsazibhossenrabby&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=runcode42&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="runcode42"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsazibhossenrabby&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="runcode42"/>
 
 </a>
 <br><br>
@@ -105,7 +105,7 @@
 
 <p>
 <a href="https://twitter.com/imsazibcoder" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="sazib019" height="70" width="70" /></a>
-<a href="https://linkedin.com/in/runcode42" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="runcode42" height="70" width="70" /></a>
+<a href="https://linkedin.com/in/mdsazibhossenrabby" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="runcode42" height="70" width="70" /></a>
 <a href="https://fb.com/runcode101010" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="runcode101010" height="70" width="70"/></a>
 <a href="https://instagram.com/imsazibcoder" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="runcode101010" height="70" width="70" /></a>
 <a href="https://discord.gg/Runcode42" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Runcode42" height="70" width="70" /></a>
@@ -131,8 +131,8 @@
   <br><br><br><br>
 
   ### <picture><img src = "https://github.com/runcode42/logos-and-redmm/blob/main/toppppp.gif" width="60" height="60"></picture> Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=runcode42&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mdsazibhossenrabby&limit=5&theme=flat&combine_all_yearly_contributions=true)
   
  
-  ![GitHub metrics](https://metrics.lecoq.io/runcode42)
+  ![GitHub metrics](https://metrics.lecoq.io/mdsazibhossenraby)
 
