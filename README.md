@@ -134,5 +134,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mdsazibhossenrabby&limit=5&theme=flat&combine_all_yearly_contributions=true)
   
  
-  ![GitHub metrics](https://metrics.lecoq.io/mdsazibhossenraby)
+  ![GitHub metrics](https://metrics.lecoq.io/mdsazibhossenraby/)
 
