@@ -40,7 +40,7 @@
 
 <br><br>
 
-# <picture><img src = "https://github.com/runcode42/logos-and-redmm/blob/main/badgeeeeee.gif" width = 70px></picture> **GitHub Badges**
+# <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/badgeeeeee.gif" width = 70px></picture> **GitHub Badges**
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
@@ -62,7 +62,7 @@
 <br> 
 
 
-# <picture><img src = "https://github.com/runcode42/logos-and-redmm/blob/main/languageee.gif" width="60" height="60"></picture> **Languages and Tools:**
+# <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/languageee.gif" width="60" height="60"></picture> **Languages and Tools:**
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="c" width="60" height="60"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
@@ -76,7 +76,7 @@
 <br><br>
   
   
- # <picture><img src = "https://github.com/runcode42/logos-and-redmm/blob/main/barrrrr.gif" width = 60px></picture> **Github Stats**  
+ # <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/barrrrr.gif" width = 60px></picture> **Github Stats**  
 
  <br> 
 
@@ -101,7 +101,7 @@
  
 
 
-# <picture><img src = "https://github.com/runcode42/logos-and-redmm/blob/main/socialcontact.gif" width = "70px" height="60px"></picture>  **Contact Social**
+# <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/socialcontact.gif" width = "70px" height="60px"></picture>  **Contact Social**
 
 <p>
 <a href="https://twitter.com/imsazibcoder" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="sazib019" height="70" width="70" /></a>
@@ -115,7 +115,7 @@
 <br><br>
 <br><br>
 
-# <picture><img src = "https://github.com/runcode42/logos-and-redmm/blob/main/prosociallkey.gif" height="50" width="70" ></picture> **Programming Social**
+# <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/prosociallkey.gif" height="50" width="70" ></picture> **Programming Social**
 
 <p>
 
@@ -130,7 +130,7 @@
 
   <br><br><br><br>
 
-  ### <picture><img src = "https://github.com/runcode42/logos-and-redmm/blob/main/toppppp.gif" width="60" height="60"></picture> Top Contributed Repo
+  ### <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/toppppp.gif" width="60" height="60"></picture> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mdsazibhossenrabby&limit=5&theme=flat&combine_all_yearly_contributions=true)
   
  
