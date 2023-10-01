@@ -6,9 +6,15 @@ on:
 
   workflow_dispatch:
 
+  on:
   push:
     branches:
-    - master
+    - main
+    - release/*
+on:
+  pull_request:
+    branches:
+    - main
 
 jobs:
   generate:
