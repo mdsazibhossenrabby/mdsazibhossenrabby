@@ -28,7 +28,7 @@
 
 - 👀🎉 I’m looking to collaborate on **Github**
 
-- 🗄️All of my projects are available at [https://github.com](https://github.com/runcode42)
+- 🗄️All of my projects are available at [GitHub](https://github.com/mdsazibhosserabby)
 
 - 💬 Ask me about **Web development**
 
