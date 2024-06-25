@@ -78,6 +78,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/100/690/png-clipart-visual-studio-code-microsoft-visual-studio-source-code-text-editor-microsoft-blue-angle-thumbnail.png" alt="vscode" width="60" height="60"/></a>
 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/259/9/png-transparent-netbeans-logo-company-logo-brand-logo-company-brand-3d-icon-thumbnail.png" alt="netbeans" width="60" height="60"/></a>
+
   
 </p>
 
