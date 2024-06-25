@@ -64,7 +64,7 @@
 
 # <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/languageee.gif" width="60" height="60"></picture> **Languages and Tools:**
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://iconscout.com/lottie-animation/c-programming-language-6432324" alt="c" width="60" height="60"/> </a> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="[https://iconscout.com/lottie-animation/c-programming-language-6432324](https://media.baamboozle.com/uploads/images/442420/1642085696_33179_gif-url.gif)" alt="c" width="60" height="60"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="css3" width="60" height="60"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html5" width="60" height="60"/> </a> 
