@@ -24,17 +24,17 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px></picture> **About me**
 
 
-- 💻 I’m currently learning **C,C++,PYTHON**
+- 💻 I’m currently learning **Java,C++** and  complete **C**
 
 - 👀🎉 I’m looking to collaborate on **Github**
 
 - 🗄️All of my projects are available at [GitHub](https://github.com/mdsazibhosserabby)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Data Structures**
 
 - 📫 How to reach me **runcode101010@proton.me**
 
-- ⚡ Fun fact **I have no girlfriend at all.**
+- ⚡ Fun fact **I love Crypto Currency and Crypto Blockchain**
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
