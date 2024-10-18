@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"/>
+  <img src="https://raw.githubusercontent.com/mdsazibhossenrabby/LogosANDGifs/refs/heads/main/Banner1.png?token=GHSAT0AAAAAACYRC65X2RFHYE6IH63BHOHGZYR6RCA"/>
 
 </p>
 
