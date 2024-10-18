@@ -21,7 +21,7 @@
 
 
 
-# <picture><img src = "https://drive.google.com/file/d/1F0uK1tc1r0jWHiyGXjAOSmpkdaP-QpMX/view" width = 70px></picture> **About me**
+# <picture><img src = "https://mdsazibgithub.blogspot.com/2024/10/logos-1.html" width = 70px></picture> **About me**
 
 
 - 💻 I’m currently learning **Java,C++** and  complete **C**
