@@ -21,7 +21,7 @@
 
 
 
-# <picture><img src = "https://mdsazibgithub.blogspot.com/2024/10/logos-1.html" width = 70px></picture> **About me**
+# <picture><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1bJZ_fF2HtvRCxy9jaFb7069LsbZvR6cLdbthkryysLuaNDhWA-vJx3xvtPx4Hw4e5q_dOa4NpQ7fcjIbPyETQkAXfUsX0HmgmxgrC6mjYDP-c0cbd9TJcOBUYswww6DEZfC1fXw_UeGdegEWxPdpUEF0qnAwU90Ocs8-TiL1n0t6zE_rWV-_zFBcxQq-/s250/about.gif" width = 70px></picture> **About me**
 
 
 - 💻 I’m currently learning **Java,C++** and  complete **C**
