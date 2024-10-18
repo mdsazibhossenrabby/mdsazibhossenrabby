@@ -62,7 +62,7 @@
 <br> 
 
 
-# <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/languageee.gif" width="60" height="60"></picture> **Languages and Tools:**
+# <picture><img src = "https://raw.githubusercontent.com/mdsazibhossenrabby/LogosANDGifs/refs/heads/main/languageee.gif?token=GHSAT0AAAAAACYRC65WCLSET2U2VXQQDEAQZYR55IQ" width="60" height="60"></picture> **Languages and Tools:**
 
 
 <p align="left"> 
@@ -87,7 +87,7 @@
 <br><br>
   
   
- # <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/barrrrr.gif" width = 60px></picture> **Github Stats**  
+ # <picture><img src = "https://raw.githubusercontent.com/mdsazibhossenrabby/LogosANDGifs/refs/heads/main/barrrrr.gif?token=GHSAT0AAAAAACYRC65W3TXAOXFUP2CG2XHKZYR54IQ" width = 60px></picture> **Github Stats**  
 
  <br> 
 
