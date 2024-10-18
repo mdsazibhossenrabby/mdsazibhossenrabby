@@ -77,8 +77,8 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" width="60" height="60"/></a>
-
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/259/9/png-transparent-netbeans-logo-company-logo-brand-logo-company-brand-3d-icon-thumbnail.png" alt="netbeans" width="60" height="60"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcuG3QSgVTgga3EGqyGQbllmfrM6YbStMvLREAyIWfP1bVhp2r6bzVwGMb6Nj1QENRUazEK9xNtGk3JzHQwlD19YepSpzQpydlgTQJpKKMYV3ATLX3buntTTjApzSdj-OipBo-JTpW-fh6SfAb3gxGDjYm5K2nYjAJ_ONYrnYemuGQevhadz6uNykNjKPw/s480/ubutu.gif" alt="Ubuntu" width="60" height="60"/></a>
 
   
 </p>
