@@ -1,8 +1,10 @@
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 <p align="center">
 
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6vGyWMb5Vccye4z7y8JINLOtHgPbNSaibmCLJlHh693g3MG8jJLFwliiJ9PCtJbBh_hv2FUj2Yx_tx3aZrYM0Gk-MhxO8xQry91da7OSjpNgVCi78GiBFDM7sdP6NkFHW6T_G-7XunDbWzq1EdTn9w2KHteo3sbhlK9Iu0tN6Qkey-s74iGlFiby7_S6g/s2000/Banner1.png"/>
-  [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+  
 
 </p>
 
