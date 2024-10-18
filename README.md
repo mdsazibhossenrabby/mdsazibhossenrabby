@@ -21,7 +21,7 @@
 
 
 
-# <picture><img src = "https://raw.githubusercontent.com/mdsazibhossenrabby/LogosANDGifs/refs/heads/main/about.gif?token=GHSAT0AAAAAACYRC65XEVXLCHT3LARKIXA2ZYR6NVA" width = 70px></picture> **About me**
+# <picture><img src = "https://drive.google.com/file/d/1F0uK1tc1r0jWHiyGXjAOSmpkdaP-QpMX/view" width = 70px></picture> **About me**
 
 
 - 💻 I’m currently learning **Java,C++** and  complete **C**
