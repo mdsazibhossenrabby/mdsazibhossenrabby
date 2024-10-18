@@ -127,7 +127,7 @@
 
 <p>
 <a href="https://x.com/im_mdsazib" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="sazib019" height="70" width="70" /></a>
-<a href="www.linkedin.com/in/immdsazib" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="runcode42" height="70" width="70" /></a>
+<a href="https://www.linkedin.com/in/immdsazib" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="runcode42" height="70" width="70" /></a>
 <a href="https://www.facebook.com/immdsazib/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="runcode101010" height="70" width="70"/></a>
 <a href="https://discord.gg/immdsazib" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Runcode42" height="70" width="70" /></a>
 
