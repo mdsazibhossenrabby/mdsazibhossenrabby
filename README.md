@@ -126,11 +126,10 @@
 # <picture><img src = "https://github.com/mdsazibhossenrabby/logos-and-redmm/blob/main/socialcontact.gif" width = "70px" height="60px"></picture>  **Contact Social**
 
 <p>
-<a href="https://twitter.com/imsazibcoder" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="sazib019" height="70" width="70" /></a>
-<a href="https://linkedin.com/in/mdsazibhossenrabby" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="runcode42" height="70" width="70" /></a>
-<a href="https://fb.com/runcode101010" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="runcode101010" height="70" width="70"/></a>
-<a href="https://instagram.com/imsazibcoder" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="runcode101010" height="70" width="70" /></a>
-<a href="https://discord.gg/Runcode42" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Runcode42" height="70" width="70" /></a>
+<a href="https://x.com/im_mdsazib" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="sazib019" height="70" width="70" /></a>
+<a href="www.linkedin.com/in/immdsazib" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="runcode42" height="70" width="70" /></a>
+<a href="https://www.facebook.com/immdsazib/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="runcode101010" height="70" width="70"/></a>
+<a href="https://discord.gg/immdsazib" target="blank"><img align="left" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Runcode42" height="70" width="70" /></a>
 
 </p>
 <br><br>
