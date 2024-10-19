@@ -115,7 +115,8 @@
 </a>
 <br><br>
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3673017)
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3673017)](https://tryhackme.com)
+
 
 
 </div>
