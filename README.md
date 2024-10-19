@@ -115,10 +115,13 @@
 </a>
 <br><br>
 
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3673017)
+
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3673017" style='border:none;'></iframe>
+
 
 
 <br>
