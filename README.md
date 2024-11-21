@@ -25,7 +25,7 @@
 # <picture><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1bJZ_fF2HtvRCxy9jaFb7069LsbZvR6cLdbthkryysLuaNDhWA-vJx3xvtPx4Hw4e5q_dOa4NpQ7fcjIbPyETQkAXfUsX0HmgmxgrC6mjYDP-c0cbd9TJcOBUYswww6DEZfC1fXw_UeGdegEWxPdpUEF0qnAwU90Ocs8-TiL1n0t6zE_rWV-_zFBcxQq-/s250/about.gif" width = 70px></picture> **About me** <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtW7yGXox6MaH4ZnlcUvta1fivKDaPYioshrpzYxvDNqdeeMTCYC6g5C3KzUqLswDkUnOIaG9ofVf82JI0OJEgSQkTLXHClj2HbHonatpHNwHE86Cc27YXA5FkqTBAj3fUwYddnr5NNeNcL7D7ZJsfuZlAJ-mC0TMgNo6rbMWtWUFLmkAbhkfifS9DXyrf/s480/aniFlame.gif" width = 100px>
 
 
-- 💻 I’m currently learning **Java,C++** and  complete **C**
+- 💻 I’m currently learning **Python,C++** and  complete **C**
 
 - 👀🎉 I’m looking to collaborate on **Github**
 
