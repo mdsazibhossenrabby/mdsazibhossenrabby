@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **runcode101010@proton.me**
 
-- ⚡ Fun fact **I love Crypto Currency and Crypto Blockchain**
+- ⚡ Fun fact **I love Cyber Security, Crypto Currency and Crypto Blockchain**
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
