@@ -13,7 +13,7 @@
 <br><br>
                                                         
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=27&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum++Warahmatullah..&hearts;++;Self-taught+Future+Developer,;Computer+Science+Student,;Programming+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..&hearts"</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=27&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum++Warahmatullah..&hearts;++;Self-taught+Future+Cyber+ Security+Specialist,;Computer+Science+Student,;Programming+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..&hearts"</a>
 </p>
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350px" height="400px"></picture>
