@@ -18,6 +18,26 @@
   </a>
 </p>
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" height="100">
+  <style>
+    @keyframes glow {
+      0% { filter: drop-shadow(0 0 5px cyan); }
+      50% { filter: drop-shadow(0 0 20px cyan); }
+      100% { filter: drop-shadow(0 0 5px cyan); }
+    }
+    text {
+      fill: white;
+      font-family: 'Fira Code', monospace;
+      font-size: 30px;
+      animation: glow 2s infinite;
+    }
+  </style>
+  <text x="50" y="50" dominant-baseline="middle" text-anchor="middle">
+    Glowing Animated Text ✨
+  </text>
+</svg>
+
+
 
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350px" height="400px"></picture>
