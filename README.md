@@ -169,6 +169,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mdsazibhossenrabby&limit=5&theme=flat&combine_all_yearly_contributions=true)
   
  
-  ![GitHub metrics](https://metrics.lecoq.io/mdsazibhossenrabby/)
+![GitHub Stats](https://img.shields.io/github/followers/mdsazibhossenrabby?style=social)
+
 
 
