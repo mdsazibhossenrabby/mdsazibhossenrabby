@@ -37,7 +37,27 @@
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### 🛡️ **CYBERSECURITY TOOLS**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80" height="80" alt="Kali Linux"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="80" height="80" alt="Metasploit"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" height="80" alt="Burp Suite"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" height="80" alt="Wireshark"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80" height="80" alt="Nmap"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294009-40220d50-af4b-4755-b8af-df9b828c5c04.gif" width="80" height="80" alt="OWASP"/>
+</p>
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823c-4fc2-8af5-2c4b78b59b6b.gif" width="80" height="80" alt="Nikto"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294005-28b4cd8a-b441-43fd-b37c-d7a6f67f30f4.gif" width="80" height="80" alt="Sqlmap"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294003-47bb0e1e-3e92-42e4-9e3b-d4e7f1adac4f.gif" width="80" height="80" alt="John"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294001-30e8e8e5-29d1-4b72-9e55-5f0be0e3d39c.gif" width="80" height="80" alt="Hashcat"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235293999-0a3e04a7-2c6f-4f0a-b08e-8f3d1b7d4a9e.gif" width="80" height="80" alt="Aircrack"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235293997-b3cb8d12-32e7-4c3d-9dc8-5e6a7b85b3e8.gif" width="80" height="80" alt="Hydra"/>
+</p>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=black" />
@@ -49,22 +69,24 @@
 
 ### 💻 **PROGRAMMING ARSENAL**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash&theme=dark" />
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80" alt="Python"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f135.gif" width="80" height="80" alt="C++"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" height="80" alt="C"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80" height="80" alt="Java"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80" alt="JavaScript"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="80" height="80" alt="HTML"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="80" height="80" alt="CSS"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" height="80" alt="Bash"/>
 </p>
 
 ### 🖥️ **TACTICAL ENVIRONMENT**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,vscode,vim,docker&theme=dark" />
-  <br><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80" alt="Linux"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80" height="80" alt="Ubuntu"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257449-e2ca72a8-5f2d-4e38-a7df-53cdd6e7b04b.gif" width="80" height="80" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80" alt="VS Code"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f135.gif" width="80" height="80" alt="Vim"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="80" height="80" alt="Docker"/>
 </p>
 
 </div>
@@ -119,9 +141,21 @@
 
 [![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3673017)](https://tryhackme.com)
 
+<br><br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60" alt="Hack The Box"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="60" height="60" alt="TryHackMe"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" height="60" alt="VulnHub"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60" height="60" alt="OverTheWire"/>
+</p>
+
+<br>
+
 <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
 <img src="https://img.shields.io/badge/VulnHub-6B46C1?style=for-the-badge&logo=vulnhub&logoColor=white"/>
+<img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=overthewire&logoColor=white"/>
 
 </div>
 
@@ -150,6 +184,21 @@
 </p>
 
 ### ⚔️ **TRAINING GROUNDS**
+<p align="center">
+<a href="https://codeforces.com/profile/runcode42" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80" height="80" alt="Codeforces"/>
+</a>
+<a href="https://www.codechef.com/users/runcode42" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="80" height="80" alt="CodeChef"/>
+</a>
+<a href="https://www.leetcode.com/runcode42" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" height="80" alt="LeetCode"/>
+</a>
+<a href="https://www.topcoder.com/members/runcode42" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" height="80" alt="TopCoder"/>
+</a>
+</p>
+<br>
 <p align="center">
 <a href="https://codeforces.com/profile/runcode42" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
