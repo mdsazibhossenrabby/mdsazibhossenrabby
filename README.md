@@ -71,12 +71,11 @@
 
 
 # <picture><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_vFHoy-yLY-rVEFC3H_srZrDWaePYe2fMS5VUomooVF8y-42Qu9sqNLEAOBwNLX0wy94-i8IULwNib2rrAgZyKX3_-Yw_lYnwWa-zoxSd5mT-ZL_HPxEu7h9a_Gc41T1lSgUKkxpACROjpjyG8SM8lQm5qih4Jv5qySXk6F7fxgzcod9TjEsDqqLTSVya/s400/languageee.gif" width="60" height="60"></picture> **Languages and Tools:**
-<img src="https://skillicons.dev/icons?i=c,cpp,vscode&theme=dark" />
 <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtW7yGXox6MaH4ZnlcUvta1fivKDaPYioshrpzYxvDNqdeeMTCYC6g5C3KzUqLswDkUnOIaG9ofVf82JI0OJEgSQkTLXHClj2HbHonatpHNwHE86Cc27YXA5FkqTBAj3fUwYddnr5NNeNcL7D7ZJsfuZlAJ-mC0TMgNo6rbMWtWUFLmkAbhkfifS9DXyrf/s480/aniFlame.gif" width = 100px>
 
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>  
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="css3" width="60" height="60"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html5" width="60" height="60"/> </a> 
