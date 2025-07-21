@@ -94,53 +94,21 @@
 </p>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> **PROGRAMMING WEAPONS**
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80"/>
-<br><sub><b>Python</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f135.gif" width="80" height="80"/>
-<br><sub><b>C++</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" height="80"/>
-<br><sub><b>C</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80" height="80"/>
-<br><sub><b>Java</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80"/>
-<br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="80" height="80"/>
-<br><sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="80" height="80"/>
-<br><sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" height="80"/>
-<br><sub><b>Bash</b></sub>
-</td>
-</tr>
-</table>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p>
+ <img src="https://skillicons.dev/icons?i=c&theme=dark" />
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="css3" width="60" height="60"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html5" width="60" height="60"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="60" height="60"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="60" height="60"/> </a>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" width="60" height="60"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ATzz8EI6q6wUfzFmOdMtV5-wauR1J4azbEoOq7GK8D8CJE3labQxkVpwuuOk7QjY3OMZEL2sGEjnx_PoUQM_LQM1S8Nr-vPWLdQrK04uEfUaNKePIMcip-5fxffn51DwIplTKy6CRyfzd3HOeeHvIfgCHnPxGJN9_mcnmvnZJ25KJahEY3YNkdy9rQ5q/s500/JetsBrain.gif" alt="jetsbarins" width="60" height="60"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/259/9/png-transparent-netbeans-logo-company-logo-brand-logo-company-brand-3d-icon-thumbnail.png" alt="netbeans" width="60" height="60"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcuG3QSgVTgga3EGqyGQbllmfrM6YbStMvLREAyIWfP1bVhp2r6bzVwGMb6Nj1QENRUazEK9xNtGk3JzHQwlD19YepSpzQpydlgTQJpKKMYV3ATLX3buntTTjApzSdj-OipBo-JTpW-fh6SfAb3gxGDjYm5K2nYjAJ_ONYrnYemuGQevhadz6uNykNjKPw/s480/ubutu.gif" alt="Ubuntu" width="60" height="60"/></a>
 </p>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> **OPERATIONAL ENVIRONMENT**
