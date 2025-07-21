@@ -70,7 +70,9 @@
 <br> 
 
 
-# <picture><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_vFHoy-yLY-rVEFC3H_srZrDWaePYe2fMS5VUomooVF8y-42Qu9sqNLEAOBwNLX0wy94-i8IULwNib2rrAgZyKX3_-Yw_lYnwWa-zoxSd5mT-ZL_HPxEu7h9a_Gc41T1lSgUKkxpACROjpjyG8SM8lQm5qih4Jv5qySXk6F7fxgzcod9TjEsDqqLTSVya/s400/languageee.gif" width="60" height="60"></picture> **Languages and Tools:** <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtW7yGXox6MaH4ZnlcUvta1fivKDaPYioshrpzYxvDNqdeeMTCYC6g5C3KzUqLswDkUnOIaG9ofVf82JI0OJEgSQkTLXHClj2HbHonatpHNwHE86Cc27YXA5FkqTBAj3fUwYddnr5NNeNcL7D7ZJsfuZlAJ-mC0TMgNo6rbMWtWUFLmkAbhkfifS9DXyrf/s480/aniFlame.gif" width = 100px>
+# <picture><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_vFHoy-yLY-rVEFC3H_srZrDWaePYe2fMS5VUomooVF8y-42Qu9sqNLEAOBwNLX0wy94-i8IULwNib2rrAgZyKX3_-Yw_lYnwWa-zoxSd5mT-ZL_HPxEu7h9a_Gc41T1lSgUKkxpACROjpjyG8SM8lQm5qih4Jv5qySXk6F7fxgzcod9TjEsDqqLTSVya/s400/languageee.gif" width="60" height="60"></picture> **Languages and Tools:**
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css&theme=dark" />
+<img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtW7yGXox6MaH4ZnlcUvta1fivKDaPYioshrpzYxvDNqdeeMTCYC6g5C3KzUqLswDkUnOIaG9ofVf82JI0OJEgSQkTLXHClj2HbHonatpHNwHE86Cc27YXA5FkqTBAj3fUwYddnr5NNeNcL7D7ZJsfuZlAJ-mC0TMgNo6rbMWtWUFLmkAbhkfifS9DXyrf/s480/aniFlame.gif" width = 100px>
 
 
 <p align="left"> 
