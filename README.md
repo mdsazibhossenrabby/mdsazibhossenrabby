@@ -45,44 +45,46 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **PENETRATION TESTING TOOLS**
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" height="80"/>
 <br><sub><b>Kali Linux</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" height="80"/>
 <br><sub><b>Metasploit</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80"/>
 <br><sub><b>Burp Suite</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80" height="80"/>
 <br><sub><b>Wireshark</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80" height="80"/>
 <br><sub><b>Nmap</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" height="80"/>
 <br><sub><b>OWASP ZAP</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257449-e2ca72a8-5f2d-4e38-a7df-53cdd6e7b04b.gif" width="80" height="80"/>
 <br><sub><b>John Ripper</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80" height="80"/>
 <br><sub><b>Hashcat</b></sub>
 </td>
 </tr>
 </table>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=black" />
@@ -93,44 +95,46 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> **PROGRAMMING WEAPONS**
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80"/>
 <br><sub><b>Python</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f135.gif" width="80" height="80"/>
 <br><sub><b>C++</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" height="80"/>
 <br><sub><b>C</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80" height="80"/>
 <br><sub><b>Java</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80"/>
 <br><sub><b>JavaScript</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="80" height="80"/>
 <br><sub><b>HTML5</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="80" height="80"/>
 <br><sub><b>CSS3</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" height="80"/>
 <br><sub><b>Bash</b></sub>
 </td>
 </tr>
 </table>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -141,44 +145,46 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> **OPERATIONAL ENVIRONMENT**
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80"/>
 <br><sub><b>Linux</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" height="80"/>
 <br><sub><b>Ubuntu</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212257449-e2ca72a8-5f2d-4e38-a7df-53cdd6e7b04b.gif" width="80" height="80"/>
 <br><sub><b>Git</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" height="80"/>
 <br><sub><b>VS Code</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="80" height="80"/>
 <br><sub><b>Docker</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80" height="80"/>
 <br><sub><b>Vim</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80" height="80"/>
 <br><sub><b>Debian</b></sub>
 </td>
-<td align="center">
+<td align="center" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80" height="80"/>
 <br><sub><b>Windows</b></sub>
 </td>
 </tr>
 </table>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -298,27 +304,28 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="25" /> **SOCIAL NETWORKS**
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td align="center">
+<td align="center" width="150">
 <a href="https://x.com/im_mdsazib">
 <img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" width="80" height="80" alt="Twitter"/>
 <br><sub><b>Twitter/X</b></sub>
 </a>
 </td>
-<td align="center">
+<td align="center" width="150">
 <a href="https://www.linkedin.com/in/immdsazib">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" height="80" alt="LinkedIn"/>
 <br><sub><b>LinkedIn</b></sub>
 </a>
 </td>
-<td align="center">
+<td align="center" width="150">
 <a href="https://www.facebook.com/immdsazib/">
 <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80" height="80" alt="Facebook"/>
 <br><sub><b>Facebook</b></sub>
 </a>
 </td>
-<td align="center">
+<td align="center" width="150">
 <a href="https://discord.gg/immdsazib">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" height="80" alt="Discord"/>
 <br><sub><b>Discord</b></sub>
@@ -326,30 +333,32 @@
 </td>
 </tr>
 </table>
+</div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="25" /> **CODING BATTLEGROUNDS**
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td align="center">
+<td align="center" width="150">
 <a href="https://codeforces.com/profile/runcode42">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60" alt="Codeforces"/>
 <br><sub><b>Codeforces</b></sub>
 </a>
 </td>
-<td align="center">
+<td align="center" width="150">
 <a href="https://www.codechef.com/users/runcode42">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" height="60" alt="CodeChef"/>
 <br><sub><b>CodeChef</b></sub>
 </a>
 </td>
-<td align="center">
+<td align="center" width="150">
 <a href="https://www.leetcode.com/runcode42">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="60" height="60" alt="LeetCode"/>
 <br><sub><b>LeetCode</b></sub>
 </a>
 </td>
-<td align="center">
+<td align="center" width="150">
 <a href="https://www.topcoder.com/members/runcode42">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60" height="60" alt="TopCoder"/>
 <br><sub><b>TopCoder</b></sub>
@@ -357,6 +366,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
