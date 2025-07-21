@@ -103,65 +103,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="60" height="60"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="60" height="60"/> </a>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
+
+
+</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> **OPERATIONAL ENVIRONMENT**
+<p align="left>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" width="60" height="60"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ATzz8EI6q6wUfzFmOdMtV5-wauR1J4azbEoOq7GK8D8CJE3labQxkVpwuuOk7QjY3OMZEL2sGEjnx_PoUQM_LQM1S8Nr-vPWLdQrK04uEfUaNKePIMcip-5fxffn51DwIplTKy6CRyfzd3HOeeHvIfgCHnPxGJN9_mcnmvnZJ25KJahEY3YNkdy9rQ5q/s500/JetsBrain.gif" alt="jetsbarins" width="60" height="60"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/259/9/png-transparent-netbeans-logo-company-logo-brand-logo-company-brand-3d-icon-thumbnail.png" alt="netbeans" width="60" height="60"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcuG3QSgVTgga3EGqyGQbllmfrM6YbStMvLREAyIWfP1bVhp2r6bzVwGMb6Nj1QENRUazEK9xNtGk3JzHQwlD19YepSpzQpydlgTQJpKKMYV3ATLX3buntTTjApzSdj-OipBo-JTpW-fh6SfAb3gxGDjYm5K2nYjAJ_ONYrnYemuGQevhadz6uNykNjKPw/s480/ubutu.gif" alt="Ubuntu" width="60" height="60"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcuG3QSgVTgga3EGqyGQbllmfrM6YbStMvLREAyIWfP1bVhp2r6bzVwGMb6Nj1QENRUazEK9xNtGk3JzHQwlD19YepSpzQpydlgTQJpKKMYV3ATLX3buntTTjApzSdj-OipBo-JTpW-fh6SfAb3gxGDjYm5K2nYjAJ_ONYrnYemuGQevhadz6uNykNjKPw/s480/ubutu.gif" alt="Ubuntu" width="60" height="60"/></a>  
 </p>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> **OPERATIONAL ENVIRONMENT**
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80"/>
-<br><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" height="80"/>
-<br><sub><b>Ubuntu</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212257449-e2ca72a8-5f2d-4e38-a7df-53cdd6e7b04b.gif" width="80" height="80"/>
-<br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" height="80"/>
-<br><sub><b>VS Code</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="80" height="80"/>
-<br><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80" height="80"/>
-<br><sub><b>Vim</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80" height="80"/>
-<br><sub><b>Debian</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80" height="80"/>
-<br><sub><b>Windows</b></sub>
-</td>
-</tr>
-</table>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-</div>
 
 ---
 
