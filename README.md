@@ -1,4 +1,20 @@
+<div<img src="https://capsule-ren### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" /> **MISSION BRIEFING**
+
+- 🛡️ **Current Operation**: Advanced **Penetration Testing** & **Malware Analysis**
+- 🔥 **Specialization**: **Red Team Operations**, **Web Application Security**, **Digital Forensics**
+- 💀 **Primary Arsenal**: **Kali Linux**, **Metasploit Framework**, **Burp Suite Professional**, **Wireshark**
+- 🎯 **Certification Target**: **CEH (Certified Ethical Hacker)** & **OSCP (Offensive Security)**
+- 📡 **Secure Contact**: **runcode101010@proton.me** 🔐
+- ⚡ **Side Missions**: **Cryptocurrency Security**, **Blockchain Analysis**, **IoT Penetration Testing**
+- 🚀 **Future Goal**: **Bug Bounty Hunter** & **Cybersecurity Consultant**l.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=MD.%20SAZIB&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🛡️%20Cybersecurity%20Specialist%20|%20Ethical%20Hacker%20🛡️&descAlignY=58&descAlign=center&descSize=25"/>
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=2000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=1200&height=100&lines=🔥+INITIALIZING+CYBER+PROTOCOL+🔥;🛡️+MD.+SAZIB+-+SECURITY+MATRIX+🛡️;💀+PENETRATION+TESTER+%7C+THREAT+HUNTER+💀;🔍+MALWARE+ANALYST+%7C+BUG+BOUNTY+HUNTER+🔍;⚡+DEFENDING+THE+DIGITAL+FORTRESS+⚡;🚀+HACK+THE+PLANET+ETHICALLY+🚀;🔐+WELCOME+TO+THE+MATRIX+🔐" alt="Cyber Matrix Typing">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">"center">
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; CYBER GUARDIAN MATRIX &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
@@ -61,34 +77,61 @@
   <img src="https://img.shields.io/badge/Aircrack--ng-0080FF?style=for-the-badge&logo=aircrack&logoColor=white&labelColor=black" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" height="60" alt="Security"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60" height="60" alt="Hacking"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60" alt="Terminal"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="60" height="60" alt="Cyber"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" height="60" alt="Network"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" height="60" alt="Code"/>
+</p>
+
 ### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> **PROGRAMMING WEAPONS**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash,powershell,go" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash,powershell,go&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f135.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" height="60" alt="Python"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f135.gif" width="60" height="60" alt="C++"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" height="60" alt="C"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60" height="60" alt="Java"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60" alt="JavaScript"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="60" height="60" alt="HTML"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="60" height="60" alt="CSS"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" height="60" alt="Bash"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> **OPERATIONAL ENVIRONMENT**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,windows,docker,git,vscode,vim" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,windows,docker,git,vscode,vim&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257449-e2ca72a8-5f2d-4e38-a7df-53cdd6e7b04b.gif" width="50"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" height="60" alt="Linux"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" height="60" alt="Ubuntu"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257449-e2ca72a8-5f2d-4e38-a7df-53cdd6e7b04b.gif" width="60" height="60" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" height="60" alt="VS Code"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" height="60" alt="Docker"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60" alt="Terminal"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 </div>
@@ -301,7 +344,34 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> **"HACK THE PLANET, SECURE THE FUTURE"** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=60&lines=⚡+STAY+SECURE%2C+STAY+VIGILANT+⚡;🔥+ETHICAL+HACKING+IS+THE+WAY+🔥;🛡️+PROTECTING+DIGITAL+REALMS+🛡️;💀+CYBERSECURITY+NEVER+SLEEPS+💀" alt="Footer Typing">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&height=80&lines=⚡+STAY+SECURE%2C+STAY+VIGILANT+⚡;🔥+ETHICAL+HACKING+IS+THE+WAY+🔥;🛡️+PROTECTING+DIGITAL+REALMS+🛡️;💀+CYBERSECURITY+NEVER+SLEEPS+💀;🚀+INNOVATION+THROUGH+SECURITY+🚀;🔐+ACCESS+GRANTED+TO+THE+MATRIX+🔐" alt="Footer Typing">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" height="50"/>
+<br><sub><b>Penetration Testing</b></sub>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" height="50"/>
+<br><sub><b>Ethical Hacking</b></sub>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" height="50"/>
+<br><sub><b>Cyber Defense</b></sub>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50"/>
+<br><sub><b>Security Research</b></sub>
+</td>
+</tr>
+</table>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&fontSize=0&animation=twinkling"/>
 
