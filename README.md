@@ -172,7 +172,7 @@
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mdsazibhossenrabby.png)](https://tryhackme.com/p/SudoStealth)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mdsazibhossenrabby.png)](https://tryhackme.com/sudostealth)
 
 <br>
 
@@ -194,10 +194,9 @@
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
-<img src="https://img.shields.io/badge/VulnHub-6B46C1?style=for-the-badge&logo=vulnhub&logoColor=white"/>
-<img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logoColor=white"/>
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/sudostealth)
+  [![HACKTHEBOX](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/sudostealth)
+
 </p>
 
 </div>
