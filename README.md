@@ -37,16 +37,16 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80"/><br><sub>Kali Linux</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/><br><sub>Metasploit</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/><br><sub>Burp Suite</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80"/><br><sub>Wireshark</sub></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"/><br><sub>Kali Linux</sub></td>
+  <td align="center"><img src="https://img.icons8.com/color/96/metasploit.png" width="80"/><br><sub>Metasploit</sub></td>
+  <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="80"/><br><sub>Burp Suite</sub></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="80"/><br><sub>Wireshark</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://user-images.githubusercontent.com/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80"/><br><sub>Nmap</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/><br><sub>OWASP ZAP</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/212257449-e2ca72a8-5f2d-4e38-a7df-53cdd6e7b04b.gif" width="80"/><br><sub>John Ripper</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/><br><sub>Hashcat</sub></td>
+  <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="80"/><br><sub>Nmap</sub></td>
+  <td align="center"><img src="https://avatars.githubusercontent.com/u/6716868?s=200&v=4" width="80"/><br><sub>OWASP ZAP</sub></td>
+  <td align="center"><img src="https://img.icons8.com/fluency/96/password.png" width="80"/><br><sub>John Ripper</sub></td>
+  <td align="center"><img src="https://avatars.githubusercontent.com/u/6577741?s=200&v=4" width="80"/><br><sub>Hashcat</sub></td>
 </tr>
 </table>
 
@@ -124,10 +124,27 @@
 
 ### Coding Battlegrounds
 <div align="center">
-<a href="https://codeforces.com/profile/runcode42"><img src="https://user-images.githubusercontent.com/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/></a>
-<a href="https://www.codechef.com/users/runcode42"><img src="https://user-images.githubusercontent.com/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/></a>
-<a href="https://www.leetcode.com/runcode42"><img src="https://user-images.githubusercontent.com/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"/></a>
-<a href="https://www.topcoder.com/members/runcode42"><img src="https://user-images.githubusercontent.com/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50"/></a>
+  <!-- Codeforces -->
+  <a >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="50" height="50" alt="Codeforces"/>
+  </a>
+  
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/runcode42">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="50" height="50" alt="CodeChef" style="filter: drop-shadow(2px 2px 2px gray);"/>
+  </a>
+  
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/runcode42">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" height="50" alt="LeetCode"/>
+  </a>
+  
+  <!-- TopCoder -->
+  <a href="https://www.topcoder.com/members/runcode42">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" width="50" height="50" alt="TopCoder"/>
+  </a>
+
+
 </div>
 
 ---
