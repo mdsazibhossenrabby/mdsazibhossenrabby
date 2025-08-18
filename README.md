@@ -106,8 +106,7 @@
 ### Pen Testing Platforms
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/sudostealth)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/sudostealth)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SudoStealth.png)](https://tryhackme.com/p/SudoStealth)
 
 </div>
 
