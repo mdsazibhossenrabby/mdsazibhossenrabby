@@ -1,45 +1,47 @@
 <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; CYBER GUARDIAN MATRIX &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />  
+# **RED TEAM MATRIX - MD. SAZIB** 
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MD.%20SAZIB&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🛡️%20Cybersecurity%20Specialist%20|%20Ethical%20Hacker🛡️&descAlign=center&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=300&section=header&text=MD.%20SAZIB&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🩸%20Red%20Team%20Operator%20|%20Ethical%20Hacker%20🩸&descAlign=center&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=🔥+INITIALIZING+CYBER+PROTOCOL+🔥;🛡️+MD.+SAZIB+-+SECURITY+MATRIX+🛡️;💀+PENETRATION+TESTER+%7C+THREAT+HUNTER+💀;🔍+MALWARE+ANALYST+%7C+BUG+BOUNTY+HUNTER+🔍;⚡+DEFENDING+THE+DIGITAL+FORTRESS+⚡;🚀+HACK+THE+PLANET+ETHICALLY+🚀;🔐+WELCOME+TO+THE+MATRIX+🔐" alt="Cyber Matrix Typing">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2000&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=900&lines=🔥+RED+TEAM+PROTOCOL+INITIALIZED+🔥;💀+MD.+SAZIB+-+OFFENSIVE+SECURITY+💀;⚡+ADVANCED+PENETRATION+TESTING+⚡;🔍+MALWARE+ANALYSIS+%7C+THREAT+INTEL+🔍;🩸+HACK+THE+PLANET+ETHICALLY+🩸" alt="Red Team Typing">
 
 </div>
 
 ---
 
-## 🛡️ CYBER OPERATIVE STATUS
+## <img src="https://github.com/sudostealth/LogosANDGifs/blob/main/about.gif?raw=true" width="50"/> RED TEAM OPERATION STATUS
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sudostealth&label=Profile%20Views&color=00ff41&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sudostealth?label=Followers&style=for-the-badge&color=00ff41&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=sudostealth&label=Intrusions+Detected&color=FF0000&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/sudostealth?label=Allies&style=for-the-badge&color=FF0000&labelColor=000000" />
 
 </div>
 
 **Mission Briefing:**
-- 🔥 **Current Operation**: Advanced Penetration Testing & Malware Analysis
-- 💀 **Specialization**: Red Team Operations, Web Application Security, Digital Forensics
-- 🛡️ **Primary Arsenal**: Kali Linux, Metasploit, Burp Suite, Wireshark
-- 🎯 **Certification Target**: CEH & OSCP
-- 📡 **Secure Contact**: runcode101010@proton.me
-- ⚡ **Side Missions**: Cryptocurrency Security, Blockchain Analysis, IoT Pen Testing
-- 🚀 **Future Goal**: Bug Bounty Hunter & Cybersecurity Consultant
+- 🔥 **Current Operation**: Advanced Penetration Testing & Red Team Simulations  
+- 💀 **Specialization**: Adversary Emulation, Web App Exploits, Forensics  
+- 🩸 **Primary Arsenal**: Kali Linux, Metasploit, Burp Suite, Wireshark  
+- 🎯 **Certification Target**: CEH | OSCP | CRTP  
+- 📡 **Secure Contact**: runcode101010@proton.me  
+- ⚡ **Side Missions**: Dark Web Monitoring, IoT Security, Blockchain Forensics  
+- 🚀 **Future Goal**: Cybersecurity Consultant & Bug Bounty Hunter  
 
 ---
 
-## ⚡ CYBER WARFARE ARSENAL
+## ⚡ OFFENSIVE SECURITY ARSENAL
 
-### Penetration Testing Tools
+### <img src="https://github.com/sudostealth/LogosANDGifs/blob/main/tools.gif?raw=true" width="40"/> Core Tools
 <div align="center">
 
 <table>
 <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"/><br><sub>Kali Linux</sub></td>
   <td align="center"><img src="https://img.icons8.com/color/96/metasploit.png" width="80"/><br><sub>Metasploit</sub></td>
-  <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="80"/><br><sub>Burp Suite</sub></td>
+  <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="80" style="filter: drop-shadow(0 0 6px red);"/><br><sub>Burp Suite</sub></td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="80"/><br><sub>Wireshark</sub></td>
 </tr>
 <tr>
@@ -54,16 +56,16 @@
 
 ---
 
-### Programming Weapons
+### <img src="https://github.com/sudostealth/LogosANDGifs/blob/main/languageee.gif?raw=true" width="30"/> Programming Weapons
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,bash" height="50" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,bash&theme=dark" height="50" />
 
 </div>
 
 ---
 
-### Operational Environment
+### ⚙️ Infrastructure & Environments
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50"/>
@@ -76,7 +78,7 @@
 
 ---
 
-### Elite Certifications & GitHub Achievements
+## <img src="https://github.com/sudostealth/LogosANDGifs/blob/main/badges.gif?raw=true" width="40"/> Red Team Certifications & GitHub Achievements
 <div align="center">
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='60'></a>
@@ -84,26 +86,26 @@
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='60'></a>
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='55'></a>
 
-![](https://github-profile-trophy.vercel.app/?username=sudostealth&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![](https://github-profile-trophy.vercel.app/?username=sudostealth&theme=onestar&margin-w=6&no-frame=true&column=4)
 
 </div>
 
 ---
 
-### Cyber Intelligence Dashboard
+## <img src="https://github.com/sudostealth/LogosANDGifs/blob/main/barrrrr.gif?raw=true" width="40"/> Cyber Intelligence Dashboard
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudostealth&theme=dark&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudostealth&theme=dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sudostealth&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudostealth&theme=radical&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudostealth&theme=dark&layout=compact&hide_border=true" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudostealth&theme=github_dark" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudostealth&theme=radical&layout=compact&hide_border=true" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudostealth&theme=radical" width="48%"/>
 
 </div>
 
 ---
 
-### Pen Testing Platforms
+## <img src="https://github.com/sudostealth/LogosANDGifs/blob/main/hackerplatform.gif?raw=true" width="40"/> Training Grounds
 <div align="center">
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SudoStealth.png)](https://tryhackme.com/p/SudoStealth)
@@ -112,7 +114,7 @@
 
 ---
 
-### Social Networks
+## 🌐 Social Recon
 <div align="center">
 <a href="https://x.com/im_mdsazib"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" width="60"/></a>
 <a href="https://www.linkedin.com/in/mdsazib-sudostealth"><img src="https://user-images.githubusercontent.com/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/></a>
@@ -122,40 +124,36 @@
 
 ---
 
-### Coding Battlegrounds
+## ⚔️ Coding Battlegrounds
 <div align="center">
-  <!-- Codeforces -->
-  <a >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="50" height="50" alt="Codeforces"/>
-  </a>
-  
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/runcode42">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="50" height="50" alt="CodeChef" style="filter: drop-shadow(2px 2px 2px gray);"/>
-  </a>
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/runcode42">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" height="50" alt="LeetCode"/>
-  </a>
-  
-  <!-- TopCoder -->
-  <a href="https://www.topcoder.com/members/runcode42">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" width="50" height="50" alt="TopCoder"/>
-  </a>
 
+<a href="https://codeforces.com/profile/runcode42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="50" height="50" style="filter: drop-shadow(0 0 6px red);"/>
+</a>
+
+<a href="https://www.codechef.com/users/runcode42">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="50" height="50" style="filter: drop-shadow(0 0 6px red);"/>
+</a>
+
+<a href="https://leetcode.com/runcode42">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" height="50" style="filter: drop-shadow(0 0 6px red);"/>
+</a>
+
+<a href="https://www.topcoder.com/members/runcode42">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/topcoder.svg" width="50" height="50" style="filter: drop-shadow(0 0 6px red);"/>
+</a>
 
 </div>
 
 ---
 
-### Elite Contributions
+## <img src="https://github.com/sudostealth/LogosANDGifs/blob/main/contribution.gif?raw=true" width="40"/> Elite Contributions
 <div align="center">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=sudostealth&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudostealth&theme=react-dark&area=true&hide_border=true" width="100%"/>
-<img src="https://ghchart.rshah.org/00ff41/sudostealth" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudostealth&theme=redical&area=true&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/FF0000/sudostealth" width="100%"/>
 
 </div>
 
@@ -163,6 +161,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=⚡+STAY+SECURE,+STAY+VIGILANT⚡;🔥+ETHICAL+HACKING+IS+THE+WAY🔥;🛡️+PROTECTING+DIGITAL+REALMS🛡️;💀+CYBERSECURITY+NEVER+SLEEPS💀;🚀+INNOVATION+THROUGH+SECURITY🚀;🔐+ACCESS+GRANTED+TO+THE+MATRIX🔐" alt="Footer Typing">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=900&lines=⚡+TRUST+NO+ONE,+EXPLOIT+EVERYTHING+⚡;🔥+THE+RED+TEAM+NEVER+SLEEPS+🔥;🩸+HACK+THE+PLANET+🩸;💀+STAY+ANONYMOUS,+STAY+POWERFUL+💀" alt="Footer Typing">
 
 </div>
